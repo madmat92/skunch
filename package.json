@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "bootstrap": "^3",
-    "jquery": "^3"
+    "bootstrap-datepicker": "^1.7.1",
+    "bootstrap-select": "^1.12.4",
+    "font-awesome": "^4.7.0",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3",
+    "static-handlebars-brunch": "~ 0.1.0"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
